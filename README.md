@@ -22,6 +22,7 @@
 🛎️ Vamos nos conectar!
 <div align="center"> <a href="https://www.linkedin.com/in/victor-hugo-rodrigues-toledo-04bab535b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://www.instagram.com/rodriguezziiin.__/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> </a> <a href="victorhugorodriguestoledo06@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> </div> <br/>
 <div align="center"> <img src="https://i.pinimg.com/originals/ed/f3/0a/edf30a8f265ba9d925e87ed79f67e2ec.gif" width="300px" /> </div>
-🎉 Obrigado pela visita!
+🎉 Obrigado pela visita!         
+acesse meu site! https://victor-rodrigues06.github.io/Victor-Hugo/
 
 
